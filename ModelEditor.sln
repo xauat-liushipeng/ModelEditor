@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ModelEditor", "ModelEditor.vcxproj", "{1FB0ECE7-88EE-4AE6-8E92-4936DEC698D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FB0ECE7-88EE-4AE6-8E92-4936DEC698D6}.Debug|x64.ActiveCfg = Debug|x64
+		{1FB0ECE7-88EE-4AE6-8E92-4936DEC698D6}.Debug|x64.Build.0 = Debug|x64
+		{1FB0ECE7-88EE-4AE6-8E92-4936DEC698D6}.Release|x64.ActiveCfg = Release|x64
+		{1FB0ECE7-88EE-4AE6-8E92-4936DEC698D6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AA403FD-699C-47C9-B652-972BD15345F8}
+	EndGlobalSection
+EndGlobal
